@@ -2,7 +2,7 @@
 title:               jmKanz.io
 tagline:             'Kube Padwan and Cloud Engineer'
 description:         'jmKanz.io'
-url:                 https://jmkanz.github.io
+url:                 https://github.com
 baseurl:             '/jmkanz.github.io'
 paginate:            5
 permalink:           pretty
