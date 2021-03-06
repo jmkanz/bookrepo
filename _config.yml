@@ -1,7 +1,7 @@
 # Setup
 title:               jmKanz.io
 tagline:             'Kube Padwan and Cloud Engineer'
-description:         'This site is a collection of refrence material for Kubernetes and other things'
+description:         'jmKanz.io'
 url:                 https://jmkanz.github.io
 baseurl:             '/jmkanz.github.io'
 paginate:            5
