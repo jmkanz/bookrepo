@@ -1,5 +1,26 @@
 {
+    "root": "/",
+    "title": "A collection of notes that are sometimes useful ",
+    "pluginsConfig": {
+      "theme-default": {
+        "showLevel": true
+      },
+      "fancybox": {
+        "openEffect": "elastic",
+        "closeEffect": "elastic"
+
+      },
+      "webheader": {
+        "headerTitle" : "Kube Padawn and Destroyer of Problems"
+      }
+    },
     "plugins": [
-        "theme-faq"
-    ]
-}
+      "collapsible-chapters",
+      "hints",
+      "copy-code-button",
+      "back-to-top-button",
+      "fancybox",
+      "web-header"
+    ],
+    "gitbook": "3.2.3"
+  }
