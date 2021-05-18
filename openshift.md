@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Kubernetes
+title: OpenShift
 ---
 
-<p class="kube">
+<p class="openshift">
   Kubernetes
 </p>
 
